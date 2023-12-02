@@ -1,0 +1,27 @@
+two1nine Replacing two with 2
+21nine
+21nine Replacing nine with 9
+219
+29 eightwothree Replacing eight with 8
+8wothree
+8wothree Replacing three with 3
+8wo3
+83 abcone2threexyz Replacing one with 1
+abc12threexyz
+abc12threexyz Replacing three with 3
+abc123xyz
+13 xtwone3four Replacing one with 1
+xtw13four
+xtw13four Replacing four with 4
+xtw134
+14 4nineeightseven2 Replacing seven with 7
+4nineeight72
+4nineeight72 Replacing eight with 8
+4nine872
+4nine872 Replacing nine with 9
+49872
+42 zoneight234 Replacing eight with 8
+zon8234
+84 7pqrstsixteen Replacing six with 6
+7pqrst6teen
+76 341
